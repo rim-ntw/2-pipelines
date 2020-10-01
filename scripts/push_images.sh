@@ -1,3 +1,3 @@
 #! /bin/bash
 
-sudo docker push localhost:8082/flask-app-demo-2/trio-task-deploy_flask-app .
+sudo docker push localhost:8082/trio-task-deploy_flask-app/flask-app-demo-2/ .
